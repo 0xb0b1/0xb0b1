@@ -25,7 +25,7 @@
 
 ## Operation System:
 
-[<img align="left" alt="Gentoo" width="26px" src="https://simpleicons.org/icons/gentoo.svg" />][funtoo]
+[<img align="left" alt="Funtoo" width="26px" src="https://simpleicons.org/icons/gentoo.svg" />][funtoo]
 [<img align="left" alt="FreeBSD" width="26px" src="https://simpleicons.org/icons/freebsd.svg" />][freebsd]
 [<img align="left" alt="OpenBSD" width="26px" src="https://simpleicons.org/icons/openbsd.svg" />][openbsd]
 
