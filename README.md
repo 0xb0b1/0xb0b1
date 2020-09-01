@@ -24,6 +24,7 @@
 
 ## Operation System:
 
+[<img align="left" alt="ArchLinux" width="26px" src="https://simpleicons.org/icons/archlinux.svg" />][archlinux]
 [<img align="left" alt="Funtoo" width="26px" src="https://simpleicons.org/icons/gentoo.svg" />][funtoo]
 [<img align="left" alt="FreeBSD" width="26px" src="https://simpleicons.org/icons/freebsd.svg" />][freebsd]
 [<img align="left" alt="OpenBSD" width="26px" src="https://simpleicons.org/icons/openbsd.svg" />][openbsd]
@@ -33,3 +34,4 @@
 [funtoo]: https://www.funtoo.org/
 [openbsd]: https://www.openbsd.org/
 [freebsd]: https://www.freebsd.org/
+[archlinux]: https://www.archlinux.org/
