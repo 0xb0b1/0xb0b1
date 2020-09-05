@@ -25,7 +25,7 @@
 ## Operation System:
 
 [<img align="left" alt="Funtoo" width="26px" src="https://www.funtoo.org/funtoo.png" />][funtoo]
-[<img align="left" alt="FreeBSD" width="26px" src="https://simpleicons.org/icons/freebsd.svg" />][freebsd]
+[<img align="left" alt="FreeBSD" width="26px" src="https://www.freebsd.org/favicon.ico" />][freebsd]
 
 
 [telegram]: https://t.me/b_0_b_1
