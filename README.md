@@ -6,7 +6,7 @@
 
 ### Connect with me:
 
-[<img align="left" alt="b0b1 | Telegram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/telegram.svg" />][telegram]
+[<img align="left" alt="b0b1 | Telegram" width="42px" src="https://telegram.org/img/website_icon.svg?4" />][telegram]
 
 <br />
 
