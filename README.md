@@ -25,12 +25,11 @@
 
 ## Operation System:
 
-[<img align="left" alt="Funtoo" width="46px" src="https://www.funtoo.org/funtoo.png" />][funtoo]
+[<img align="left" alt="VoidLinux" width="46px" src="https://voidlinux.org/assets/img/void_bg.png" />][voidlinux]
 [<img align="left" alt="FreeBSD" width="46px" src="https://www.freebsd.org/favicon.ico" />][freebsd]
 
 
 [telegram]: https://t.me/b_0_b_1
-[funtoo]: https://www.funtoo.org/
+[voidlinux]: https://www.voidlinux.org
 [openbsd]: https://www.openbsd.org/
 [freebsd]: https://www.freebsd.org/
-[archlinux]: https://www.archlinux.org/
