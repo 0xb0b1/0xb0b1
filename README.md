@@ -2,4 +2,3 @@
 
 ## Damn, how i love it.
 - 🌱 I’m currently learning Web development.
-- 🔭 I’m currently working on life.
