@@ -9,8 +9,8 @@
 <br>
 <p align="center">
   <a href="https://twitter.com/p_vcente" target="_blank">
-    <img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/twitter.svg" alt="dephraiim" height="20" width="100" /></a>
+    <img align="center" src="https://simpleicons.org/icons/twitter.svg" alt="b0b1" height="100" width="100" /></a>
   <a href="https://t.me/b_0_b_1" target="_blank">
-    <img align="center" src="https://simpleicons.org/icons/telegram.svg" alt="dephraiim" height="20" width="100" /></a>
+    <img align="center" src="https://simpleicons.org/icons/telegram.svg" alt="b0b1" height="100" width="100" /></a>
 </p>
 <br>
