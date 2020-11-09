@@ -4,8 +4,8 @@
 </p>
 <br>
 
-![b0b1's github stats](https://github-readme-stats.vercel.app/api?username=0xb0b1&show_icons=true&count_private=true&hide=stars&include_all_commits=true&theme=Gradient)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0xb0b1&langs_count=10layout=compact)](https://github.com/0xb0b1/github-readme-stats)
+![b0b1's github stats](https://github-readme-stats.vercel.app/api?username=0xb0b1&show_icons=true&count_private=true&hide=stars&include_all_commits=true)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0xb0b1&langs_count=10&layout=compact)](https://github.com/0xb0b1/github-readme-stats)
 
 <p align="center">
   <a href="https://twitter.com/p_vcente" target="_blank">
