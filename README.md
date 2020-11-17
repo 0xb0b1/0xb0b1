@@ -1,5 +1,5 @@
 ![b0b1's github stats](https://github-readme-stats.vercel.app/api?username=0xb0b1&show_icons=true&count_private=true&hide=stars&include_all_commits=true&theme=dracula)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0xb0b1&langs_count=7&hide=Emacs/Lisp&layout=compact&text_colorFFFFFF)](https://github.com/0xb0b1/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0xb0b1&langs_count=7&hide=Python&layout=compact&text_colorFFFFFF)](https://github.com/0xb0b1/github-readme-stats)
 
 <p align="center">
   <a href="https://twitter.com/p_vcente" target="_blank">
