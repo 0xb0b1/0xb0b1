@@ -11,3 +11,12 @@
   <img src="https://camo.githubusercontent.com/936a08778c7e4885053d148c07bbd2339dfbdd80/68747470733a2f2f6665726f73732e6e65742f782f6e6f6465322e676966" /><br><br>
 </p>
 <br>
+
+
+<br>
+<br>
+<p align="center">
+<a href="https://twitter.com/p_vcent" target="_blank"><img align="center" src="https://simpleicons.org/icons/twitter.svg" alt="paulo" height="20" width="20" /></a>
+  <a href="https://t.me/b_0_b_1" target="_blank"><img align="center" src="https://simpleicons.org/icons/telegram.svg" alt="paulo" height="20" width="20" /></a>
+</p>
+<br>
