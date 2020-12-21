@@ -1,5 +1,11 @@
-![b0b1's github stats](https://github-readme-stats.vercel.app/api?username=0xb0b1&hide=issues&show_icons=true&count_private=true&show_icons=true&include_all_commits=true)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0xb0b1&langs_count=9&layout=compact&hide=CSS,HASKELL,HTML,SHELL,PYTHON&text_colorFFFFFF)](https://github.com/0xb0b1/github-readme-stats)
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=0xb0b1&hide=issues&show_icons=true&count_private=true&show_icons=true&include_all_commits=true&theme=dracula">
+</p>
+  
+<p align="center">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xb0b1&langs_count=9&layout=compact&hide=CSS,HASKELL,HTML,SHELL,PYTHON&text_colorFFFFFF)](https://github.com/0xb0b1/github-readme-stats&theme=dracula">
+</p>
+
 <br>
 <br>
 <p align="center">
