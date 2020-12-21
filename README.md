@@ -3,7 +3,7 @@
 </p>
   
 <p align="center">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xb0b1&langs_count=9&layout=compact&hide=CSS,HASKELL,HTML,SHELL,PYTHON&text_colorFFFFFF)](https://github.com/0xb0b1/github-readme-stats&theme=dracula">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xb0b1&langs_count=9&layout=compact&hide=HASKELL,PYTHON&text_colorFFFFFF)](https://github.com/0xb0b1/github-readme-stats&theme=dracula">
 </p>
 
 <br>
