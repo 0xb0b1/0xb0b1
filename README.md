@@ -25,5 +25,6 @@
   <a href="https://t.me/b_0_b_1" target="_blank"><img align="center" src="https://simpleicons.org/icons/telegram.svg" alt="paulo" height="20" width="20" /></a>
 </p>
 <br>
-
-[![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabrielpatrola/)](https://www.linkedin.com/in/paulo-vicente-6abab0198/)
+<p align="center">
+  [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gabrielpatrola/)](https://www.linkedin.com/in/paulo-vicente-6abab0198/)
+</p>
