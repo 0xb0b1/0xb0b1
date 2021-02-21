@@ -21,7 +21,8 @@
 <br>
 <br>
 <p align="center">
-<a href="https://twitter.com/p_vcent" target="_blank"><img align="center" src="https://simpleicons.org/icons/twitter.svg" alt="paulo" height="20" width="20" /></a>
-  <a href="https://t.me/b_0_b_1" target="_blank"><img align="center" src="https://simpleicons.org/icons/telegram.svg" alt="paulo" height="20" width="20" /></a>
+  <a href="https://twitter.com/p_vcent" target="_blank"><img align="center" src="https://simpleicons.org/icons/twitter.svg" alt="twitter" height="20" width="20" /></a>
+  <a href="https://t.me/b_0_b_1" target="_blank"><img align="center" src="https://simpleicons.org/icons/telegram.svg" alt="telegram" height="20" width="20" /></a>
+  <a href="https://www.linkedin.com/in/paulo-vicente-6abab0198/" target"_blank"><img align="center" src="https://simpleicons.org/icons/linkedin.svg" alt="linkedin" height="20" width="20" /></a>
 </p>
 <br>
