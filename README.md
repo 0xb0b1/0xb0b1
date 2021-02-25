@@ -2,7 +2,7 @@
 
 ## ➤ Hi there 👋, I'm Paulo
 
-Front-End developer | Software engineer 
+Front-End Developer | Software engineer 
 
 ## ➤ About me 
 
