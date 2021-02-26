@@ -6,7 +6,7 @@ Front-End Developer | Self-Taught Programmer
 
 ## ➤ About me 
 
-[![Twitter Badge](https://img.shields.io/badge/-@paulo-6633cc?style=flat-square&labelColor=6633cc&logo=twitter&logoColor=white&link=https://twitter.com/p_vcent)](https://twitter.com/p_vcent) 
+[![Twitter Badge](https://img.shields.io/badge/-@p_vcent-6633cc?style=flat-square&labelColor=6633cc&logo=twitter&logoColor=white&link=https://twitter.com/p_vcent)](https://twitter.com/p_vcent) 
 [![Linkedin Badge](https://img.shields.io/badge/-Paulo%20Vicente-6633cc?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/paulo-vicente-6abab0198/)](https://www.linkedin.com/in/paulo-vicente-6abab0198/) 
 [![Gmail Badge](https://img.shields.io/badge/-vcente82.com-6633cc?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vcente82@gmail.com)](mailto:vcente82@gmail.com)
 
