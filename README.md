@@ -9,6 +9,7 @@ Front-End Developer | Self-Taught Programmer
 - I'm from Pará - Brasil
 - I’m currently self-teaching myself about programming in general.
 - I'm doing Front-End stuff with JavaScript, React JS, TypeScript.
+- Working on my portfolio using...
 
 ## ➤ Contact me
 
