@@ -12,6 +12,11 @@ Front-End Developer | Self-Taught Programmer
 - Working on my portfolio and some other side-projects...
 - Doing RocketSeat Ignite Bootcamp(ReactJS)
 
+## ➤ 2021 Goals
+- Improve my abilities in CSS
+- Improve my abilities in TypeScript
+- Improve my abilities in React & NextJS
+
 ## ➤ Contact me
 
 [![Twitter Badge](https://img.shields.io/badge/-@paulo-555555?style=flat-square&labelColor=555555&logo=twitter&logoColor=white&link=https://twitter.com/p_vcent)](https://twitter.com/p_vcent)
