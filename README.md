@@ -13,6 +13,7 @@ Front-End Developer | Self-Taught Programmer
 - Doing RocketSeat Ignite Bootcamp(ReactJS)
 
 ## ➤ 2021 Goals
+- Improve my problem solving skills
 - Improve my abilities in CSS
 - Improve my abilities in TypeScript
 - Improve my abilities in React & NextJS
