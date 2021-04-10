@@ -1,6 +1,6 @@
 <samp>
-
-Profile Hits: [![HitCount](http://hits.dwyl.com/0xb0b1/0xb0b1.svg)](http://hits.dwyl.com/0xb0b1/0xb0b1)
+  
+[![HitCount](http://hits.dwyl.com/0xb0b1/0xb0b1.svg)](http://hits.dwyl.com/0xb0b1/0xb0b1)
 
 
 ## ➤ Hi there 👋, I'm Paulo
