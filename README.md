@@ -8,7 +8,7 @@ Front-End Developer | Self-Taught Programmer
 
 - I'm from Pará - Brasil
 - I’m currently self-teaching myself about programming in general.
-- I'm doing Front-End stuff with JavaScript, React JS, TypeScript.
+- I'm doing Front-End stuff with JavaScript, ReactJS/NextJS, TypeScript.
 - Working on my portfolio and some other side-projects...
 - Doing RocketSeat Ignite Bootcamp(ReactJS)
 
