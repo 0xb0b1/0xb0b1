@@ -52,4 +52,4 @@ Front-End Developer | Self-Taught Programmer
 
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=0xb0b1&hide=issues&show_icons=true&count_private=true&show_icons=true&include_all_commits=true&theme=dracula" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xb0b1&langs_count=10&layout=compact&text_colorFFFFFF)](https://github.com/0xb0b1/github-readme-stats&theme=dracula "/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xb0b1&langs_count=15&layout=compact&text_colorFFFFFF)](https://github.com/0xb0b1/github-readme-stats&theme=dracula "/>
