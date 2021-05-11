@@ -15,8 +15,10 @@ Front-End Developer | Self-Taught Programmer
 ## ➤ 2021 Goals
 - Improve my problem solving skills
 - Improve my abilities in CSS
-- Improve my abilities in TypeScript
-- Improve my abilities in React & NextJS
+- Improve my abilities in JavaScript/TypeScript
+- Improve my abilities in ReactJS
+- Improve my communication skills
+- Learn new things every single day...
 
 ## ➤ Contact me
 
