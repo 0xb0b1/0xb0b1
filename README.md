@@ -8,9 +8,8 @@ Front-End Developer | Self-Taught Programmer
 
 - I'm from Pará - Brasil
 - I’m currently self-teaching myself about programming in general.
-- I'm doing Front-End stuff with JavaScript, ReactJS/NextJS, TypeScript.
-- Working on my portfolio and some other side-projects...
-- Doing RocketSeat Ignite Bootcamp(ReactJS)
+- I'm doing Front-End stuff with JavaScript, ReactJS, TypeScript.
+- Working at JBQ.Global as a Frontend Developer
 
 ## ➤ 2021 Goals
 - Improve my problem solving skills
