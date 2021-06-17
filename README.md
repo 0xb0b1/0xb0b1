@@ -1,3 +1,9 @@
+<div align="center" style="margin: 40px 0">
+    <a href="https://github.com/0xb0b1/github-profile-views-counter">
+        <img width="175px" src="https://komarev.com/ghpvc/?username=topdeveloper0729&color=DE002D">
+    </a>
+</div>
+
 <samp>
   
 ## ➤ Hi there 👋, I'm Paulo
