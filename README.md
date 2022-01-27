@@ -14,16 +14,8 @@ Front-End Developer | Self-Taught Programmer
 
 - I'm from Pará - Brasil
 - I’m currently self-teaching myself about programming in general.
-- I'm doing Front-End stuff with JavaScript, ReactJS, TypeScript.
+- I'm doing Front-End stuff with JavaScript, ReactJS, TypeScript and NextJS.
 - Working as a Frontend Developer
-
-## ➤ 2021 Goals
-- Improve my problem solving skills
-- Improve my abilities in CSS
-- Improve my abilities in JavaScript/TypeScript
-- Improve my abilities in ReactJS
-- Improve my communication skills
-- Learn new things every single day...
 
 ## ➤ Contact me
 
