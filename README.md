@@ -18,25 +18,21 @@ Front-End Developer | Self-Taught Programmer
 - Working as a Frontend Developer
 
  
-## ➤ My stats
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=0xb0b1&hide=issues&show_icons=true&count_private=true&show_icons=true&include_all_commits=true&theme=dracula" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xb0b1&langs_count=15&layout=compact&text_colorFFFFFF)](https://github.com/0xb0b1/github-readme-stats&theme=dracula "/>
-
 ## ➤ Front End
 	
 <div style="
 display: flex;
 ">
 	<code><img height="70" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png"></code>
-<code><img height="70" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
-<code><img height="70" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png"></code>
-<code><img height="70" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
-<code><img height="70" src="https://seeklogo.com/images/N/next-js-logo-8FCFF51DD2-seeklogo.com.png"></code>
-<code><img height="70" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png"></code>
-<code><img height="70" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"></code>
-<code><img height="70" src="https://styled-components.com/logo.png"></code>
-<code><img height="70" src="https://raw.githubusercontent.com/css-modules/logos/master/css-modules-logo.png"></code>
+	<code><img height="70" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png"></code>
+	<code><img height="70" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png">	</code>
+	<code><img height="70" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/react/react.png"></code>
+	<code><img height="70" src="https://seeklogo.com/images/N/next-js-logo-8FCFF51DD2-seeklogo.com.png"></code>
+	<code><img height="70" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png">	</code>
+	<code><img height="70" src="./tailwind-css.svg"></code>
+	<code><img height="70" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png"></code>
+	<code><img height="70" src="https://styled-components.com/logo.png"></code>
+	<code><img height="70" src="https://raw.githubusercontent.com/css-modules/logos/master/css-modules-logo.png"></code>
 </div>
 
 ## ➤ Tools
@@ -49,6 +45,12 @@ display: flex;
 	<code><img height="70" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
 	<code><img height="70" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg"></code>
 </div>
+	
+## ➤ My stats
+
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=0xb0b1&hide=issues&show_icons=true&count_private=true&show_icons=true&include_all_commits=true&theme=dracula" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xb0b1&langs_count=15&layout=compact&text_colorFFFFFF)](https://github.com/0xb0b1/github-readme-stats&theme=dracula "/>
+
 	
 ## ➤ Contact me
 
