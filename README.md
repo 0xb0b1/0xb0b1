@@ -28,8 +28,87 @@ Front-End Developer | Self-Taught Programmer
 ## ➤ My stats
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=0xb0b1&hide=issues&show_icons=true&count_private=true&show_icons=true&include_all_commits=true&theme=dracula" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xb0b1&langs_count=15&layout=compact&text_colorFFFFFF)](https://github.com/0xb0b1/github-readme-stats&theme=dracula "/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xb0b1&langs_count=7&layout=compact&text_colorFFFFFF)](https://github.com/0xb0b1/github-readme-stats&theme=dracula "/>
 
+<div style="
+display: flex;
+">
+  	<img src="./c.svg" width="50" style="
+		margin: 3px;
+		padding: 8px;
+		border-radius: 4px;
+	"/>
+	<img src="./php.svg" width="50" style="
+		margin: 3px;
+		padding: 8px;
+		border-radius: 4px;
+	"/>
+	<img src="./laravel.svg" width="50" style="
+		margin: 3px;
+		padding: 8px;
+		border-radius: 4px;
+	"/>
+	<img src="./html5.svg" width="50" style="
+		margin: 3px;
+		padding: 8px;
+		border-radius: 4px;
+	"/>
+	<img src="./css3.svg" width="50" style="
+		margin: 3px;
+		padding: 8px;
+		border-radius: 4px;
+	"/>
+  	<img src="./javascript.svg" width="50" style="
+		margin: 3px;
+		padding: 8px;
+		border-radius: 4px;
+	"/>
+  	<img src="./typescript.svg" width="50" style="
+		margin: 3px;
+		padding: 8px;
+		border-radius: 4px;
+	"/>
+  	<img src="./node-dot-js.svg" width="50" style="
+		margin: 3px;
+		padding: 8px;
+		border-radius: 4px;
+	"/>
+	<img src="./react.svg" width="50" style="
+		margin: 3px;
+		padding: 8px;
+		border-radius: 4px;
+	"/>
+	<img src="./vue-dot-js.svg" width="50" style="
+		margin: 3px;
+		padding: 8px;
+		border-radius: 4px;
+	"/>
+	<img src="./mysql.svg" width="50" style="
+		margin: 3px;
+		padding: 8px;
+		border-radius: 4px;
+	"/>
+  	<img src="./postgresql.svg" width="50" style="
+		margin: 3px;
+		padding: 8px;
+		border-radius: 4px;
+	"/>
+  	<img src="./jira.svg" width="50" style="
+		margin: 3px;
+		padding: 8px;
+		border-radius: 4px;
+	"/>
+  	<img src="./git.svg" width="50" style="
+		margin: 3px;
+		padding: 8px;
+		border-radius: 4px;
+	"/>
+	<img src="./docker.svg" width="50" style="
+		margin: 3px;
+		padding: 8px;
+		border-radius: 4px;
+	"/>
+</div>
   
 ## ➤ Support
 <p><a href="https://www.buymeacoffee.com/0xb0b1"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="0xb0b1" /></a></p><br><br>
