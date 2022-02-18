@@ -23,7 +23,7 @@ Front-End Developer | Self-Taught Programmer
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=0xb0b1&hide=issues&show_icons=true&count_private=true&show_icons=true&include_all_commits=true&theme=dracula" />
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xb0b1&langs_count=15&layout=compact&text_colorFFFFFF)](https://github.com/0xb0b1/github-readme-stats&theme=dracula "/>
 
-## ➤ Technologies
+## ➤ Front End
 	
 <div style="
 display: flex;
@@ -38,15 +38,17 @@ display: flex;
 <code><img height="70" src="https://styled-components.com/logo.png"></code>
 <code><img height="70" src="https://raw.githubusercontent.com/css-modules/logos/master/css-modules-logo.png"></code>
 </div>
-	<div style="display: flex;">
+
+## ➤ Tools
+<div style="display: flex;">
 	<code><img height="70" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/npm/npm.png"></code>
-<code><img height="70" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
-<code><img height="70" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
-<code><img height="70" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vim/vim.png"></code>
-<code><img height="70" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
-<code><img height="70" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
-<code><img height="70" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg"></code>
-	</div>
+	<code><img height="70" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png"></code>
+	<code><img height="70" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png"></code>
+	<code><img height="70" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/vim/vim.png"></code>
+	<code><img height="70" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code>
+	<code><img height="70" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/linux/linux.png"></code>
+	<code><img height="70" src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg"></code>
+</div>
 	
 ## ➤ Contact me
 
