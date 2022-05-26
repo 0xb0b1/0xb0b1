@@ -8,7 +8,7 @@
   
 ## ➤ Hi there 👋, I'm Paulo
 
-Front-End Developer | Self-Taught Programmer
+Front-End Engineer
 
 ## ➤ About me 
 
