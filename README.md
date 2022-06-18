@@ -12,9 +12,9 @@ Front-End Engineer
 
 ## ➤ About me 
 
-- I'm from Pará - Brasil
+- I'm from Brasil
 - I’m currently self-teaching myself about programming in general.
-- Working as a Frontend Developer build applications with Javascript, Typescript, ReactJS and Redux
+- Working as a Frontend Developer building applications with Javascript, Typescript, ReactJS and Redux
 
 ## ➤ Front End
 	
