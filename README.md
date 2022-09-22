@@ -60,3 +60,6 @@ display: flex; gap: 1rem;
   
 ## ➤ Support
 <p><a href="https://www.buymeacoffee.com/0xb0b1"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="0xb0b1" /></a></p><br><br>
+
+
+![Snake animation](https://github.com/0xb0b1/0xb0b1/blob/output/github-contribution-grid-snake.svg)
