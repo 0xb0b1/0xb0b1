@@ -49,9 +49,7 @@ display: flex; gap: 1rem;
 ## ➤ My stats
 
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=0xb0b1&hide=issues&show_icons=true&count_private=true&show_icons=true&include_all_commits=true&theme=dracula" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xb0b1&langs_count=4&layout=compact&text_colorFFFFFF)]
-(https://github.com/0xb0b1/github-readme-stats&theme=dracula "/>
-![Snake animation](https://github.com/0xb0b1/0xb0b1/blob/output/github-contribution-grid-snake.svg)
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=0xb0b1&langs_count=4&layout=compact&text_colorFFFFFF)](https://github.com/0xb0b1/github-readme-stats&theme=dracula "/>
 
 
 ## ➤ Contact me
