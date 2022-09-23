@@ -8,7 +8,7 @@
   
 ## ➤ Hi there 👋, I'm Paulo
 
-Front-End Engineer
+Frontend Developer
 
 ## ➤ About me 
 
