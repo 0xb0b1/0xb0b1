@@ -14,7 +14,7 @@ Front-End Engineer
 
 - I'm from Brasil
 - I’m currently self-teaching myself about programming in general.
-- Working as a Frontend Developer building applications with Javascript, Typescript, ReactJS and Redux
+- Working as a Frontend Developer building applications with Javascript, Typescript and ReactJS.
 
 ## ➤ Front End
 	
