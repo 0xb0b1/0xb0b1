@@ -17,6 +17,7 @@ Software Engineer
 - Working as a Frontend Software Engineer building applications with Typescript, ReactJS and NextJS.
 - Studying Functional Programming as a Hobby with Clojure/Haskell.
 - I also have a Passion about static typed languages.
+- Linux/*UNIX lover.
 
 
 [![Twitter Badge](https://img.shields.io/badge/-@paulo-555555?style=flat-square&labelColor=555555&logo=twitter&logoColor=white&link=https://twitter.com/p_vcent)](https://twitter.com/p_vcent)
