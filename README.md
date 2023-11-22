@@ -14,7 +14,7 @@ Software Engineer
 
 - I'm from Brasil
 - I’m currently self-teaching myself about programming in general.
-- Working as a Frontend Software Engineer building applications with Typescript, ReactJS and NextJS.
+- Working as a Frontend Software Engineer building applications with JavaScript/Typescript, ReactJS and NextJS.
 - Studying Functional Programming as a Hobby with Clojure/Haskell.
 - I also have a Passion about static typed languages.
 - Linux/*UNIX lover.
