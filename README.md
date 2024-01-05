@@ -45,6 +45,29 @@ display: flex;
 
 </div>
 
+## ➤ Frameworks and tools:
+
+<div style="
+display: flex;
+">
+<a href="https://react.dev">
+    <img height="70" src="https://github.com/0xb0b1/0xb0b1/blob/master/react.svg" />
+</a>
+    
+<a href="https://tailwindcss.com">
+    <img height="70" src="https://github.com/0xb0b1/0xb0b1/blob/master/tailwind-css.svg" />
+</a>
+
+<a></a>
+
+<a></a>
+
+<a></a>
+
+<a></a>
+
+
+</div>
 
 
 ## ➤ Social
