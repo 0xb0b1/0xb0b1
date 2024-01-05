@@ -62,7 +62,9 @@ display: flex;
     <img height="70" src="https://github.com/0xb0b1/0xb0b1/blob/master/tailwind-css-seeklogo.com.svg" />
 </a>
 
-<a></a>
+<a href="https://github.com/NvChad">
+    <img height="70" src="https://avatars.githubusercontent.com/u/88978340?s=200&v=4" />
+</a>
 
 <a></a>
 
