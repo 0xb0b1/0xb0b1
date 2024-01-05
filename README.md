@@ -40,7 +40,7 @@ display: flex;
 
 <a href="https://www.python.org">
 
-<img height="70" src="https://github.com/0xb0b1/0xb0b1/blob/master/golang.svg" />
+<img height="70" src="https://github.com/0xb0b1/0xb0b1/blob/master/python.png" />
 </a>
 
 </div>
