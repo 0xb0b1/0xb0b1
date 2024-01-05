@@ -55,7 +55,11 @@ display: flex;
 </a>
 
 <a href="https://nextjs.org">
-     <img height="70" src="https://github.com/0xb0b1/0xb0b1/blob/master/nextjs.svg" />
+     <img height="70" src="https://github.com/0xb0b1/0xb0b1/blob/master/nextjs.png" />
+</a>
+
+<a href="https://redux.js.org">
+    <img height="70" src="https://redux.js.org/img/redux.svg" />
 </a>
     
 <a href="https://tailwindcss.com">
