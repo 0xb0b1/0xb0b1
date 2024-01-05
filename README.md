@@ -20,7 +20,7 @@ Software Engineer
 - Linux/*UNIX lover.
 
 
-## ➤ Languages I feel confident with and work with:
+## ➤ Languages I use for work and hobby:
 
 <div style="
 display: flex;
