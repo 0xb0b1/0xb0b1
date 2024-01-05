@@ -63,7 +63,7 @@ display: flex;
 </a>
     
 <a href="https://tailwindcss.com">
-    <img height="70" src="https://github.com/0xb0b1/0xb0b1/blob/master/tailwind-css-seeklogo.com.svg" />
+    <img height="50" src="https://github.com/0xb0b1/0xb0b1/blob/master/tailwind-css-seeklogo.com.svg" />
 </a>
 
 <a href="https://github.com/NvChad">
