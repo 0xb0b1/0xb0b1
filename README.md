@@ -37,6 +37,9 @@ Software Engineer
 - GPU: **NVIDIA GeForce GTX 1660 SUPER**
 - Memory: **16GB**
 - Monitor: **27' Wide Husky 165H(1920x1080)/ LG 75' WideScreen(2560x1080)**
+- Keyboard: **Husky Gaming 60%**
+- Mouse: **Viper Pro Gaming 411**
+- Headset: **SuperFrame + EDX Pro**
 
 ## ➤ Languages I use for work and hobby:
 
