@@ -32,13 +32,13 @@ display: flex;
 <a href="https://www.typescriptlang.org">
     <img height="70" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
 </a>
-    
-<a href="https://go.dev">
-    <img height="70" src="https://github.com/0xb0b1/0xb0b1/blob/master/golang.svg" />
-</a>
 
 <a href="clojure.org">
     <img height="70" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/clojure/clojure.png" />
+</a>
+    
+<a href="https://go.dev">
+    <img height="70" src="https://github.com/0xb0b1/0xb0b1/blob/master/golang.svg" />
 </a>
 
 <a href="https://www.python.org">
