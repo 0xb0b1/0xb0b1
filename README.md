@@ -23,12 +23,20 @@ Software Engineer
 ##  ➤ System:
 
 - OS: **Manjaro Linux**
+- Window Manager: **Bspwm**
 - Editor: **Neovim**
 - Browser: **Chromium/Vivaldi**
 - Terminal: **Wezterm**
 - Terminal Font: **SF Mono**
 - Theme/Colorscheme: **oceanic-next**
+- [GTK2/3]: **Catppuccin-Mocha-Standard-Red-Dark**
+- Icons: **candy-icons**
 
+##  ➤ Hardware:
+- CPU: **AMD Ryzen 5 2600 (12) @ 3.400GHz**
+- GPU: **NVIDIA GeForce GTX 1660 SUPER**
+- Memory: **16GB**
+- Monitor: **27' Wide Husky 165H/ LG 75' WideScreen**
 
 ## ➤ Languages I use for work and hobby:
 
