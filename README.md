@@ -20,6 +20,16 @@ Software Engineer
 - Linux/*UNIX lover.
 
 
+##  ➤ System:
+
+- OS: **Manjaro Linux**
+- Editor: **Neovim**
+- Browser: **Chromium/Vivaldi**
+- Terminal: **Wezterm**
+- Terminal Font: **SF Mono**
+- Theme/Colorscheme: **oceanic-next**
+
+
 ## ➤ Languages I use for work and hobby:
 
 <div style="
