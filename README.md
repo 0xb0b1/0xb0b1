@@ -29,7 +29,7 @@ Software Engineer
 - Terminal: **Wezterm**
 - Terminal Font: **SF Mono**
 - Theme/Colorscheme: **oceanic-next**
-- [GTK2/3]: **Catppuccin-Mocha-Standard-Red-Dark**
+- Gtk Theme: **Catppuccin-Mocha-Standard-Red-Dark**
 - Icons: **candy-icons**
 
 ##  ➤ Hardware:
