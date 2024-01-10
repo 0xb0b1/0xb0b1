@@ -27,7 +27,7 @@ Software Engineer
 
 ## ➤ Languages I use for work and hobby:
 
-[![My Skills](https://skillicons.dev/icons?i=javascript,typescript,react,nextjs,golang,clojure&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=javascript,typescript,react,nextjs,golang,clojure,clojurescript&theme=dark)](https://skillicons.dev)
 
 
 <div style="
