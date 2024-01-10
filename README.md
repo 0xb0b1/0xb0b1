@@ -27,58 +27,13 @@ Software Engineer
 
 ## ➤ Languages I use for work and hobby:
 
-[![My Skills](https://skillicons.dev/icons?i=javascript,typescript,react,nextjs,golang,clojure,clojurescript&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=javascript,typescript,react,nextjs,golang,clojure&theme=dark)](https://skillicons.dev)
 
-
-<div style="
-display: flex;
-">
-<a href="https://developer.mozilla.org/en-US/docs/Web/javascript">
-    <img height="70" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" />
-</a>
-    
-<a href="https://www.typescriptlang.org">
-    <img height="70" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/typescript/typescript.png" />
-</a>
-
-<a href="clojure.org">
-    <img height="70" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/clojure/clojure.png" />
-</a>
-    
-<a href="https://go.dev">
-    <img height="70" src="https://github.com/0xb0b1/0xb0b1/blob/master/golang.svg" />
-</a>
-
-<a href="https://www.python.org">
-    <img height="70" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
-</a>
-
-</div>
 
 ## ➤ Frameworks and tools:
 
-<div style="
-display: flex;
-">
-<a href="https://react.dev">
-    <img height="70" src="https://github.com/0xb0b1/0xb0b1/blob/master/react.svg" />
-</a>
+[![My Skills](https://skillicons.dev/icons?i=neovim&theme=dark)](https://skillicons.dev)
 
-<a href="https://nextjs.org">
-     <img height="70" src="https://github.com/0xb0b1/0xb0b1/blob/master/nextjs.png" />
-</a>
-
-<a href="https://redux.js.org">
-    <img height="70" src="https://redux.js.org/img/redux.svg" />
-</a>
-    
-<a href="https://tailwindcss.com">
-    <img height="50" src="https://github.com/0xb0b1/0xb0b1/blob/master/tailwind-css-seeklogo.com.svg" />
-</a>
-
-<a href="https://github.com/NvChad">
-    <img height="70" src="https://avatars.githubusercontent.com/u/88978340?s=200&v=4" />
-</a>
 
 
 ##  ➤ System:
