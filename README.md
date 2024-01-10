@@ -25,9 +25,9 @@ Software Engineer
 [![Gmail Badge](https://img.shields.io/badge/-vcente82.com-555555?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vcente82@gmail.com)](mailto:vcente82@gmail.com)
 
 
-## ➤ Languages I use for work and hobby:
+## ➤ Languages & Frameworks:
 
-[![My Skills](https://skillicons.dev/icons?i=javascript,typescript,react,nextjs,golang,clojure&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=javascript,typescript,react,nextjs,golang,clojure,tailwindcss,redux&theme=dark)](https://skillicons.dev)
 
 
 ## ➤ Frameworks and tools:
