@@ -30,9 +30,9 @@ Software Engineer
 [![My Skills](https://skillicons.dev/icons?i=javascript,typescript,react,nextjs,golang,clojure,tailwindcss,redux&theme=dark)](https://skillicons.dev)
 
 
-## ➤ Frameworks and tools:
+## ➤ Tools:
 
-[![My Skills](https://skillicons.dev/icons?i=neovim&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=neovim,manjaro,linux,wezterm,github,git&theme=dark)](https://skillicons.dev)
 
 
 
