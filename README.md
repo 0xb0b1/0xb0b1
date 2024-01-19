@@ -27,7 +27,7 @@ Software Engineer
 
 ## ➤ Languages & Frameworks:
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,typescript,go,clojure&theme=dark&perline=5)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,typescript,go,clojure&theme=dark&perline=6)](https://skillicons.dev)
 
 [![My Skills](https://skillicons.dev/icons?i=react,nextjs,nodejs,tailwindcss,sass,redux,graphql,postgres,vite,vitest&theme=dark&perline=5)](https://skillicons.dev)
 
