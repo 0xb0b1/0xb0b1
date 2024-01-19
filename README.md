@@ -46,7 +46,7 @@ Software Engineer
 - Editor: **Neovim**
 - Browser: **Chromium/Vivaldi**
 - Terminal: **Wezterm**
-- Terminal Font: **SF Mono**
+- Terminal Font: **MonoLisa/Liga SFMono Nerd Font**
 - Theme/Colorscheme: **oceanic-next**
 - Gtk Theme: **Catppuccin-Mocha-Standard-Red-Dark**
 - Icons: **candy-icons**
