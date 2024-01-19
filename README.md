@@ -35,7 +35,7 @@ Software Engineer
 
 ## ➤ Tools:
 
-[![My Skills](https://skillicons.dev/icons?i=neovim,emacs,linux,bsd,bash,github,git,docker,postman,figma&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=neovim,emacs,linux,bsd,bash,github,git,docker,postman,figma&theme=dark&perline=6)](https://skillicons.dev)
 
 
 
