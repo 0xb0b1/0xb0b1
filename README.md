@@ -38,28 +38,6 @@ Software Engineer
 [![My Skills](https://skillicons.dev/icons?i=neovim,emacs,linux,bsd,bash,github,git,docker,postman,figma&theme=dark&perline=6)](https://skillicons.dev)
 
 
-
-##  ➤ System:
-
-- OS: **Manjaro Linux/FreeBSD**
-- Window Manager: **Bspwm**
-- Editor: **Neovim**
-- Browser: **Chromium/Vivaldi**
-- Terminal: **Wezterm**
-- Terminal Font: **MonoLisa/Liga SFMono Nerd Font**
-- Theme/Colorscheme: **oceanic-next**
-- Gtk Theme: **Catppuccin-Mocha-Standard-Red-Dark**
-- Icons: **candy-icons**
-
-##  ➤ Hardware:
-- CPU: **AMD Ryzen 5 2600 (12) @ 3.400GHz**
-- GPU: **NVIDIA GeForce GTX 1660 SUPER**
-- Memory: **16GB**
-- Monitor: **27' Wide Husky 165H(1920x1080)/ LG 75' WideScreen 75H(2560x1080)**
-- Keyboard: **Husky Gaming 60%**
-- Mouse: **Viper Pro Gaming 411**
-- Headset: **SuperFrame + EDX Pro**
-
 </div>
   
 ## ➤ Support
