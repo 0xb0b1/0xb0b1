@@ -32,7 +32,7 @@ Software Engineer
 
 ## ➤ Tools:
 
-[![My Skills](https://skillicons.dev/icons?i=neovim,linux,github,git,docker,postman&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=neovim,linux,bsd,github,git,docker,postman&theme=dark)](https://skillicons.dev)
 
 
 
