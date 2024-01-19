@@ -27,12 +27,14 @@ Software Engineer
 
 ## ➤ Languages & Frameworks:
 
-[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,typescript,react,nextjs,nodejs,go,clojure,tailwindcss,sass,redux,graphql,postgres,vite,vitest&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=html,css,javascript,typescript,go,clojure&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,nextjs,nodejs,tailwindcss,sass,redux,graphql,postgres,vite,vitest&theme=dark)](https://skillicons.dev)
+
 
 
 ## ➤ Tools:
 
-[![My Skills](https://skillicons.dev/icons?i=neovim,linux,bsd,github,git,docker,postman&theme=dark)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=neovim,linux,bsd,github,git,docker,postman,figma&theme=dark)](https://skillicons.dev)
 
 
 
