@@ -41,7 +41,7 @@ Software Engineer
 
 ##  ➤ System:
 
-- OS: **Manjaro Linux**
+- OS: **Manjaro Linux/FreeBSD**
 - Window Manager: **Bspwm**
 - Editor: **Neovim**
 - Browser: **Chromium/Vivaldi**
