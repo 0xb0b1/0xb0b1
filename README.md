@@ -18,6 +18,7 @@ Software Engineer
 - Studying Functional Programming as a Hobby with Clojure(the best programming language ever).
 - I also have a Passion about static typed languages.
 - Linux/*UNIX lover.
+- Playing the drums.
 
 [![Twitter Badge](https://img.shields.io/badge/-@paulo-555555?style=flat-square&labelColor=555555&logo=twitter&logoColor=white&link=https://twitter.com/p_vcent)](https://twitter.com/p_vcent)
 [![Instagram Badge](https://img.shields.io/badge/-@paulo-555555?style=flat-square&labelColor=555555&logo=instagram&logoColor=white&link=https://instagram.com/p_vcent)](https://instagram.com/p_vcent) 
