@@ -30,13 +30,13 @@ Software Engineer
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,javascript,typescript,go,clojure&theme=dark&perline=6)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=react,nextjs,nodejs,tailwindcss,styledcomponents,sass,redux,graphql,postgres,vite,vitest&theme=dark&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,nextjs,remix,nodejs,tailwindcss,styledcomponents,sass,redux,graphql,postgres,sqlite,vite,vitest&theme=dark&perline=6)](https://skillicons.dev)
 
 
 
 ## ➤ Tools:
 
-[![My Skills](https://skillicons.dev/icons?i=neovim,emacs,linux,bsd,bash,github,git,docker,postman,figma&theme=dark&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=neovim,emacs,linux,bsd,bash,github,git,githubactions,netlify,vercel,azure,devto,docker,postman,figma&theme=dark&perline=6)](https://skillicons.dev)
 
 
 </div>
