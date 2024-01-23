@@ -22,7 +22,7 @@ Software Engineer
 
 - Working as a Frontend Software Engineer building applications with JavaScript/Typescript, React.js and NextJS.
 - Studying Functional Programming as a Hobby with Clojure(the best programming language ever).
-- I also have a Passion about static typed languages.
+- I also have a Passion about static typed languages like Typescript and Haskell.
 - Linux/*UNIX lover.
 - Playing the drums as a Hobby.
 
