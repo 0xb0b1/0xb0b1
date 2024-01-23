@@ -38,7 +38,9 @@ Software Engineer
 
 [![My Skills](https://skillicons.dev/icons?i=react,nextjs,remix,vite,vitest,nodejs,tailwindcss,styledcomponents,sass,redux,graphql,postgres,sqlite&theme=dark&perline=6)](https://skillicons.dev)
 
+## ➤ Languages I have a huge interest to work with:
 
+[![My Skills](https://skillicons.dev/icons?i=go,python,rust,elixir&theme=dark&perline=6)](https://skillicons.dev)
 
 ## ➤ Tools:
 
