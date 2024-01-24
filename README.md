@@ -40,7 +40,7 @@ Software Engineer
 
 ## ➤ Languages I have a huge interest to work with:
 
-[![My Skills](https://skillicons.dev/icons?i=python,rust,elixir,haskell&theme=dark&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=python,rust,java,haskell&theme=dark&perline=6)](https://skillicons.dev)
 
 ## ➤ Tools:
 
