@@ -36,7 +36,7 @@ Software Engineer
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,javascript,typescript,clojure,go&theme=dark&perline=6)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=react,nextjs,vite,vitest,tailwindcss,styledcomponents,sass,redux,graphql,postgres&theme=dark&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,reactnative,nextjs,vite,vitest,tailwindcss,styledcomponents,sass,redux,graphql,postgres&theme=dark&perline=6)](https://skillicons.dev)
 
 ## ➤ Languages I have a huge interest to work with:
 
