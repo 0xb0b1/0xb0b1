@@ -14,8 +14,8 @@ Software Engineer
 
 - Teaching myself about programming in general since 2014(I know, I know).
 
-- As a seasoned frontend developer with extensive experience mostly in Typescript, I have developed numerous high-performing and scalable web applications that are optimized for speed, efficiency, and user experience.
-  Over the years, I have honed my skills in Typescript and frontend development, enabling me to deliver top-notch projects in diverse industries, including e-commerce and finance.
+- As a seasoned frontend developer with extensive experience mostly in Typescript and React.js, I have developed numerous high-performing and scalable web applications that are optimized for speed, efficiency, and user experience.
+  Over the years, I have honed my skills in frontend development, enabling me to deliver top-notch projects in diverse industries, including e-commerce and finance.
   In addition to my technical expertise, I have a keen eye for design and understand the importance of crafting visually appealing interfaces that enhance user engagement. 
   Whether working on greenfield projects or refactoring legacy codebases, I take pride in my ability to build robust and maintainable code that is easy to test and deploy. With my solid experience in frontend techs, I am confident in my ability to deliver outstanding results and take on new and exciting challenges in frontend development.
 
