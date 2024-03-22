@@ -44,7 +44,7 @@ Software Engineer
 
 ## ➤ Tools:
 
-[![My Skills](https://skillicons.dev/icons?i=neovim,emacs,linux,bsd,bash,github,git,githubactions,netlify,vercel,azure,devto,docker,postman,figma&theme=dark&perline=6)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=neovim,webstorm,linux,bsd,bash,github,git,githubactions,netlify,vercel,azure,devto,docker,postman,figma&theme=dark&perline=6)](https://skillicons.dev)
 
 
 </div>
