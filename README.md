@@ -20,7 +20,7 @@ Software Engineer
   Whether working on greenfield projects or refactoring legacy codebases, I take pride in my ability to build robust and maintainable code that is easy to test and deploy. With my solid experience in Typescript and React.js, I am confident in my ability to deliver outstanding results and take on new and exciting challenges in frontend development.
 
 
-- Working as a Software Engineer building applications with JavaScript/Typescript, React.js/Next, Vue, NodeJS, React Native and Clojure.
+- Working as a Software Engineer building applications with JavaScript/Typescript, React.js/Next.js/React Native, Vue, NodeJS and Clojure.
 - Studying Functional Programming as a Hobby with Clojure(the best programming language ever).
 - I also have a Passion about static typed languages like Typescript and Haskell.
 - Linux/*UNIX lover.
