@@ -13,13 +13,6 @@ Software Engineer
 ## ➤ About me 
 
 - Teaching myself about programming in general since 2014(I know, I know).
-
-- As a seasoned frontend developer with extensive experience mostly in Typescript and React.js, I have developed numerous high-performing and scalable web applications that are optimized for speed, efficiency, and user experience.
-  Over the years, I have honed my skills in frontend development, enabling me to deliver top-notch projects in diverse industries, including e-commerce and finance.
-  In addition to my technical expertise, I have a keen eye for design and understand the importance of crafting visually appealing interfaces that enhance user engagement. 
-  Whether working on greenfield projects or refactoring legacy codebases, I take pride in my ability to build robust and maintainable code that is easy to test and deploy. With my solid experience in Typescript and React.js, I am confident in my ability to deliver outstanding results and take on new and exciting challenges in frontend development.
-
-
 - Working as a Software Engineer building applications with JavaScript/Typescript, React.js/Next.js/React Native, Vue, NodeJS and Clojure.
 - Studying Functional Programming as a Hobby with Clojure(the best programming language ever).
 - I also have a Passion about static typed languages like Typescript and Haskell.
