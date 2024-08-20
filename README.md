@@ -13,8 +13,8 @@ Software Engineer
 ## ➤ About me 
 
 - Teaching myself about programming in general since 2014(I know, I know).
-- Working as a Software Engineer building applications with JavaScript/Typescript, React.js/Next.js/React Native, Vue/Quasar, NodeJS and Clojure.
-- Studying Functional Programming as a Hobby with Clojure(the best programming language ever).
+- Working as a Software Engineer building applications with JavaScript/Typescript, React.js/Next.js/React Native, Vue/Quasar and NODE.
+- Coding personal projects with Golang.
 - I also have a Passion about static typed languages like Typescript and Haskell.
 - Linux/*UNIX lover.
 - Playing the drums as a Hobby.
