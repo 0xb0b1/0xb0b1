@@ -30,7 +30,7 @@ Software Engineer
 
 [![My Skills](https://skillicons.dev/icons?i=html,css,javascript,typescript,clojure,go,haskell&theme=dark&perline=7)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=react,nextjs,vue,nodejs,nest,vite,jest,vitest,tailwindcss,sass,graphql,mysql&theme=dark&perline=7)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=react,nextjs,nodejs,nest,vite,jest,vitest,tailwindcss,sass,graphql,postgres,mysql&theme=dark&perline=7)](https://skillicons.dev)
 
 ## ➤ Tools:
 
