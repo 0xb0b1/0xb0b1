@@ -15,7 +15,7 @@ Software Engineer
 - Teaching myself about programming in general since 2014(I know, I know).
 - Working as a Software Engineer.
 - Frontend: React.js, Vue.js, Next.js, TailwindCSS, React Query.
-- Backend: Node, Nest.js, Golang, MySQL.
+- Backend: Golang, Typescript, Nest.js, Postgres/MySql, Clojure.
 - I also have a Passion about static typed languages like Haskell and Functional like Clojure.
 - Linux/*UNIX lover.
 - Playing the drums as a Hobby.
