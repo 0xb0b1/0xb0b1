@@ -12,7 +12,7 @@ Software Engineer
 
 ## ➤ About me 
 
-- Teaching myself about programming in general since 2014(I know, I know).
+- Programming and cybersecurity enthusiast since 2013.
 - Working as a Software Engineer.
 - Frontend: React.js, Vue.js, Next.js, TailwindCSS, React Query.
 - Backend: Golang, Typescript, Nest.js, Postgres/MySql, Clojure.
