@@ -14,10 +14,6 @@ Software Engineer
 
 - Programming and cybersecurity enthusiast since 2013.
 - Working as a Software Engineer.
-- Frontend: React.js, Vue.js, Next.js, TailwindCSS, React Query.
-- Backend: Golang, Typescript, Nest.js, Postgres/MySql, Clojure.
-- I also have a Passion about static typed languages like Haskell and Functional like Clojure.
-- Linux/*UNIX lover.
 - Playing the drums as a Hobby.
 
 [![Twitter Badge](https://img.shields.io/badge/-@paulo-555555?style=flat-square&labelColor=555555&logo=twitter&logoColor=white&link=https://twitter.com/p_vcent)](https://twitter.com/p_vcent)
