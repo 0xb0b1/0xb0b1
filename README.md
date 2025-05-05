@@ -21,9 +21,9 @@ Software Engineer
 [![Linkedin Badge](https://img.shields.io/badge/-Paulo%20Vicente-555555?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/paulo-vicente-6abab0198/)](https://www.linkedin.com/in/paulo-vicente-6abab0198/) 
 [![Gmail Badge](https://img.shields.io/badge/-vcente82.com-555555?style=flat-square&logo=Gmail&logoColor=white&link=mailto:vcente82@gmail.com)](mailto:vcente82@gmail.com)
 
-[![My Skills](https://skillicons.dev/icons?i=clojure,go,haskell&theme=dark&perline=7)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=go,clojure&theme=dark&perline=7)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=neovim,linux,bsda&theme=dark&perline=7)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=neovim,linux,bsd&theme=dark&perline=7)](https://skillicons.dev)
 
 
 </div>
