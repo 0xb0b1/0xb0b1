@@ -23,7 +23,7 @@ Software Engineer
 
 [![My Skills](https://skillicons.dev/icons?i=go,clojure&theme=dark&perline=7)](https://skillicons.dev)
 
-[![My Skills](https://skillicons.dev/icons?i=neovim,linux,bsd&theme=dark&perline=7)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=neovim,linux,openbsd&theme=dark&perline=7)](https://skillicons.dev)
 
 
 </div>
