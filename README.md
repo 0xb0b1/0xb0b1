@@ -23,8 +23,7 @@ Software Engineer
 
 [![My Skills](https://skillicons.dev/icons?i=go,typescript,neovim,linux&theme=dark&perline=7)](https://skillicons.dev)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0xb0b1&hide_progress=true)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=0xb0b1&layout=donut-vertical)](https://github.com/anuraghazra/github-readme-stats)
 </div>
   
 ## ➤ Support
