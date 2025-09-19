@@ -16,7 +16,7 @@ Software Engineer
 - Working as a Software Engineer.
 - Playing the drums as a Hobby.
 
-I've learned a lot of languages since 2013, beeing C, Python, Haskell, Clojure, Elixir, javascript, Ruby, Rust but I just fall in love with Golang.
+I've learned a lot of languages since 2013, beeing C, Python, Haskell, Clojure, Elixir, javascript, Ruby, Rust, but I just fall in love with Golang.
 
 [![Twitter Badge](https://img.shields.io/badge/-@paulo-555555?style=flat-square&labelColor=555555&logo=twitter&logoColor=white&link=https://twitter.com/p_vcent)](https://twitter.com/p_vcent)
 [![Instagram Badge](https://img.shields.io/badge/-@paulo-555555?style=flat-square&labelColor=555555&logo=instagram&logoColor=white&link=https://instagram.com/p_vcent)](https://instagram.com/p_vcent) 
