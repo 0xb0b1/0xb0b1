@@ -2,7 +2,7 @@
 <samp>
   
 ## ➤ Hi there 👋, I'm Paulo
-I'm writing about something interesting at https://paulo-vicente.fly.dev/
+I'm writing about something interesting here https://paulo-vicente.fly.dev/
 
 
 [![My Skills](https://skillicons.dev/icons?i=go,python,typescript,neovim,linux&theme=dark&perline=7)](https://skillicons.dev)
