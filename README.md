@@ -1,8 +1,3 @@
-<div style="margin: 20px 0">
-    <a href="https://github.com/0xb0b1/github-profile-views-counter">
-        <img width="140px" src="https://komarev.com/ghpvc/?username=0xb0b1&color=DE002D">
-    </a>
-</div>
 
 <samp>
   
