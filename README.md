@@ -1,1 +1,1 @@
-Hey, I'm writing about something interesting here https://paulo-vicente.fly.dev/
+I talk about Golang, Distributed Systems, Arquitecture and a lot of things that I've learned durinf my career https://paulo-vicente.fly.dev/
