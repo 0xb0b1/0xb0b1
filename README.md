@@ -92,15 +92,6 @@ Notes from production, not tutorials.
 </picture>
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=0xb0b1&theme=tokyonight" />
-  <img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=0xb0b1&theme=default" alt="Most used languages by commits" />
-</picture>
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=0xb0b1&theme=tokyonight" />
-  <img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=0xb0b1&theme=default" alt="Repositories per language" />
-</picture>
-
-<picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=0xb0b1&hide_border=true&theme=tokyonight&ring=00ADD8&fire=00ADD8&currStreakLabel=00ADD8" />
   <img height="180" src="https://streak-stats.demolab.com?user=0xb0b1&hide_border=true&ring=00ADD8&fire=00ADD8&currStreakLabel=00ADD8" alt="Contribution streak" />
 </picture>
