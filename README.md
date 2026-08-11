@@ -1,1 +1,146 @@
-I talk about Golang, Distributed Systems, Architecure and a lot of things that interest me https://paulo-vicente.fly.dev/
+<div align="center">
+
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=1200&color=00ADD8&center=true&vCenter=true&width=680&lines=Backend+Engineer+%E2%80%94+Go+%2B+Clojure;Distributed+Systems+%26+Event-Driven+Architecture;I+write+about+how+systems+break+%E2%80%94+and+why" alt="Backend Engineer — Go + Clojure / Distributed Systems / I write about how systems break" />
+
+<br>
+
+[![Blog](https://img.shields.io/badge/Blog-paulo--vicente.fly.dev-00ADD8?style=for-the-badge&logo=go&logoColor=white)](https://paulo-vicente.fly.dev/)
+<!-- LinkedIn's glyph was dropped from simple-icons, so shields needs it inlined as a data URI -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Paulo%20Vicente-0A66C2?style=for-the-badge&logo=data%3Aimage%2Fsvg%2Bxml%3Bbase64%2CPHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI%2BPHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0yMC40NDcgMjAuNDUyaC0zLjU1NHYtNS41NjljMC0xLjMyOC0uMDI3LTMuMDM3LTEuODUyLTMuMDM3LTEuODUzIDAtMi4xMzYgMS40NDUtMi4xMzYgMi45Mzl2NS42NjdIOS4zNTFWOWgzLjQxNHYxLjU2MWguMDQ2Yy40NzctLjkgMS42MzctMS44NSAzLjM3LTEuODUgMy42MDEgMCA0LjI2NyAyLjM3IDQuMjY3IDUuNDU1djYuMjg2ek01LjMzNyA3LjQzM2MtMS4xNDQgMC0yLjA2My0uOTI2LTIuMDYzLTIuMDY1IDAtMS4xMzguOTItMi4wNjMgMi4wNjMtMi4wNjMgMS4xNCAwIDIuMDY0LjkyNSAyLjA2NCAyLjA2MyAwIDEuMTM5LS45MjUgMi4wNjUtMi4wNjQgMi4wNjV6bTEuNzgyIDEzLjAxOUgzLjU1NVY5aDMuNTY0djExLjQ1MnpNMjIuMjI1IDBIMS43NzFDLjc5MiAwIDAgLjc3NCAwIDEuNzI5djIwLjU0MkMwIDIzLjIyNy43OTIgMjQgMS43NzEgMjRoMjAuNDUxQzIzLjIgMjQgMjQgMjMuMjI3IDI0IDIyLjI3MVYxLjcyOUMyNCAuNzc0IDIzLjIgMCAyMi4yMjUgMHoiLz48L3N2Zz4%3D)](https://www.linkedin.com/in/paulo-vicente-6abab0198/)
+[![X](https://img.shields.io/badge/X-@p__vcent-000000?style=for-the-badge&logo=x&logoColor=white)](https://twitter.com/p_vcent)
+[![Email](https://img.shields.io/badge/Email-vcente82-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:vcente82@gmail.com)
+
+</div>
+
+---
+
+## `whoami`
+
+```go
+package main
+
+import "context"
+
+type Engineer struct {
+	Name     string
+	Role     string
+	Company  string
+	Location string
+	Stack    []string
+	Focus    []string
+}
+
+func main() {
+	me := Engineer{
+		Name:     "Paulo Vicente",
+		Role:     "Backend Software Engineer",
+		Company:  "R10 Score",
+		Location: "Cuiabá, Mato Grosso — Brazil",
+		Stack:    []string{"Go", "Clojure", "TypeScript", "PostgreSQL", "Redis", "Kafka"},
+		Focus:    []string{"distributed systems", "event-driven architecture", "system design"},
+	}
+
+	me.Ship(context.Background()) // resilient, data-heavy systems
+}
+```
+
+I build **resilient, data-heavy backends** — mostly in Go, with a soft spot for Clojure and immutable data.
+Studying application security taught me more about architecture than any framework did: you design better
+once you understand *how systems break*.
+
+- 🧩 Event Sourcing / CQRS, message brokers, idempotency, graceful degradation
+- 🐿️ Go for services; Clojure + Datomic when the domain is data-shaped
+- 🔭 Currently deep in: Python → Go strangler-fig migrations, observability that actually traces
+- ✍️ Writing **65+ posts** at [paulo-vicente.fly.dev](https://paulo-vicente.fly.dev/) — in 🇬🇧 and 🇧🇷
+
+---
+
+## Featured Work
+
+| Project | What it is |
+| :--- | :--- |
+| **[eventsource](https://github.com/0xb0b1/eventsource)** `Go` | Event Sourcing + CQRS, implemented properly — banking domain, append-only log, projections |
+| **[taskqueue](https://github.com/0xb0b1/taskqueue)** `Go` `Postgres` | Distributed task queue: scheduling, exponential-backoff retries, bounded worker pools |
+| **[gowm](https://github.com/0xb0b1/gowm)** `Go` | A tiling X11 window manager in **pure Go**, no C bindings — xmonad-inspired |
+| **[wynad](https://github.com/0xb0b1/wynad)** `Haskell` | The Wayland sequel: an xmonad-flavored compositor on wlroots |
+| **[blog](https://github.com/0xb0b1/blog)** `Go` | This blog is a Go binary — `html/template`, markdown content, i18n, shipped on Fly.io |
+| **[dotfiles](https://github.com/0xb0b1/dotfiles)** `Lua` `Haskell` | XMonad + EWW bar, Catppuccin Frappé, Neovim — the whole desk |
+
+<sub>**Behind closed repos:** a real-time notification service in Go (gRPC + WebSocket delivery, Redis-backed
+deduplication, stateless horizontal scaling) — the migration story is written up
+[here](https://paulo-vicente.fly.dev/en/posts/rewriting-python-notifications-service-in-go) — plus subscription
+and data-ingestion services in Go + Terraform, and an MCP server bridging Azure DevOps into my editor.</sub>
+
+---
+
+## From the Blog
+
+Notes from production, not tutorials.
+
+- 🤖 [A Day of Letting an Agent Run My Workflow](https://paulo-vicente.fly.dev/en/posts/a-day-of-letting-an-agent-run-my-workflow)
+- ⏱️ [Your Change Detection Never Fires If the Payload Carries a Clock](https://paulo-vicente.fly.dev/en/posts/change-detection-never-fires-if-the-payload-carries-a-clock)
+- 🩺 [A Passing Health Check Doesn't Mean It's Your Build](https://paulo-vicente.fly.dev/en/posts/a-passing-health-check-doesnt-mean-its-your-build)
+- 🐚 [Eight Ways the Shell Silently Ate My Data](https://paulo-vicente.fly.dev/en/posts/eight-ways-the-shell-silently-ate-my-data)
+- 🚦 [Make the Gate Mechanical: Exit Codes Over Adjectives](https://paulo-vicente.fly.dev/en/posts/make-the-gate-mechanical-exit-codes-over-adjectives)
+- 🗄️ [Idempotency Belongs in the Database](https://paulo-vicente.fly.dev/en/posts/idempotency-belongs-in-the-database)
+
+<sub>→ [read everything](https://paulo-vicente.fly.dev/en/posts/) · também [em português](https://paulo-vicente.fly.dev/pt/posts/)</sub>
+
+---
+
+## Toolbox
+
+<div align="center">
+
+**Languages**
+
+[![Languages](https://skillicons.dev/icons?i=go,clojure,typescript,python,haskell,lua&theme=dark)](https://skillicons.dev)
+
+**Data & Infra**
+
+[![Infra](https://skillicons.dev/icons?i=postgres,redis,kafka,docker,kubernetes,aws,terraform,grafana&theme=dark)](https://skillicons.dev)
+
+**Daily Drivers**
+
+[![Tools](https://skillicons.dev/icons?i=neovim,linux,git,githubactions,bash,nix&theme=dark)](https://skillicons.dev)
+
+</div>
+
+---
+
+## Stats
+
+<div align="center">
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=0xb0b1&theme=tokyonight" />
+  <img width="810" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=0xb0b1&theme=default" alt="GitHub profile summary" />
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=0xb0b1&theme=tokyonight" />
+  <img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=0xb0b1&theme=default" alt="Most used languages by commits" />
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=0xb0b1&theme=tokyonight" />
+  <img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=0xb0b1&theme=default" alt="Repositories per language" />
+</picture>
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=0xb0b1&hide_border=true&theme=tokyonight&ring=00ADD8&fire=00ADD8&currStreakLabel=00ADD8" />
+  <img height="180" src="https://streak-stats.demolab.com?user=0xb0b1&hide_border=true&ring=00ADD8&fire=00ADD8&currStreakLabel=00ADD8" alt="Contribution streak" />
+</picture>
+
+</div>
+
+---
+
+<div align="center">
+
+<sub>*"Make it correct, make it observable, then make it fast."*</sub>
+
+<br><br>
+
+<a href="https://www.buymeacoffee.com/0xb0b1"><img src="https://img.shields.io/badge/Buy%20me%20a%20coffee-FFDD00?style=for-the-badge&logo=buymeacoffee&logoColor=black" alt="Buy me a coffee" /></a>
+
+</div>
