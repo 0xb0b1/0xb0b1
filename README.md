@@ -14,35 +14,9 @@
 
 ---
 
-## `whoami`
+## Hey, I'm Paulo
 
-```go
-package main
-
-import "context"
-
-type Engineer struct {
-	Name     string
-	Role     string
-	Company  string
-	Location string
-	Stack    []string
-	Focus    []string
-}
-
-func main() {
-	me := Engineer{
-		Name:     "Paulo Vicente",
-		Role:     "Backend Software Engineer",
-		Company:  "R10 Score",
-		Location: "Cuiabá, Mato Grosso — Brazil",
-		Stack:    []string{"Go", "Clojure", "TypeScript", "PostgreSQL", "Redis", "Kafka"},
-		Focus:    []string{"distributed systems", "event-driven architecture", "system design"},
-	}
-
-	me.Ship(context.Background()) // resilient, data-heavy systems
-}
-```
+**Backend Software Engineer** at **R10 Score** · Cuiabá, Mato Grosso — Brazil 🇧🇷
 
 I build **resilient, data-heavy backends** — mostly in Go, with a soft spot for Clojure and immutable data.
 Studying application security taught me more about architecture than any framework did: you design better
