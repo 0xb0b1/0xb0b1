@@ -18,7 +18,7 @@
 
 **Backend Software Engineer** at **R10 Score** · Cuiabá, Mato Grosso — Brazil 🇧🇷
 
-I build **resilient, data-heavy backends** — mostly in Go, with a soft spot for Clojure and immutable data.
+I build **resilient, data-heavy backends** — mostly in Go, with a soft spot for Python and Clojure for personal projects to work with immutable data.
 Studying application security taught me more about architecture than any framework did: you design better
 once you understand *how systems break*.
 
