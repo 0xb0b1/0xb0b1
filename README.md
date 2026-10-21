@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=1200&color=00ADD8&center=true&vCenter=true&width=680&lines=Backend+Engineer+%E2%80%94+Go+%2B+Clojure;Distributed+Systems+%26+Event-Driven+Architecture;I+write+about+how+systems+break+%E2%80%94+and+why" alt="Backend Engineer — Go + Clojure / Distributed Systems / I write about how systems break" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=1200&color=00ADD8&center=true&vCenter=true&width=680&lines=Fullstack+Engineer+%40+X-Team+%E2%80%94+Backend-heavy+Go;Distributed+Systems+%26+Event-Driven+Architecture+in+Go;I+write+about+how+systems+break+%E2%80%94+and+why" alt="Fullstack Engineer @ X-Team — Backend-heavy Go / Distributed Systems in Go / I write about how systems break" />
 
 <br>
 
@@ -16,14 +16,16 @@
 
 ## Hey, I'm Paulo
 
-**Backend Software Engineer** at **R10 Score** · Cuiabá, Mato Grosso — Brazil 🇧🇷
+**Fullstack Engineer** at **X-Team** · Cuiabá, Mato Grosso — Brazil 🇧🇷
 
-I build **resilient, data-heavy backends** — mostly in Go, with a soft spot for Python and Clojure for personal projects to work with immutable data.
+Backend-heavy: **Go** on the server, **TypeScript + React** on the frontend.
+
+I build **resilient, data-heavy backends in Go**.
 Studying application security taught me more about architecture than any framework did: you design better
 once you understand *how systems break*.
 
-- 🧩 Event Sourcing / CQRS, message brokers, idempotency, graceful degradation
-- 🐿️ Go for services; Clojure + Datomic when the domain is data-shaped
+- 🧩 Event Sourcing / CQRS, message brokers, idempotency, graceful degradation — in Go
+- 🐿️ Small interfaces, explicit errors, bounded concurrency, the standard library first
 - 🔭 Currently deep in: Python → Go strangler-fig migrations, observability that actually traces
 - ✍️ Writing **65+ posts** at [paulo-vicente.fly.dev](https://paulo-vicente.fly.dev/) — in 🇬🇧 and 🇧🇷
 
@@ -36,14 +38,12 @@ once you understand *how systems break*.
 | **[eventsource](https://github.com/0xb0b1/eventsource)** `Go` | Event Sourcing + CQRS, implemented properly — banking domain, append-only log, projections |
 | **[taskqueue](https://github.com/0xb0b1/taskqueue)** `Go` `Postgres` | Distributed task queue: scheduling, exponential-backoff retries, bounded worker pools |
 | **[gowm](https://github.com/0xb0b1/gowm)** `Go` | A tiling X11 window manager in **pure Go**, no C bindings — xmonad-inspired |
-| **[wynad](https://github.com/0xb0b1/wynad)** `Haskell` | The Wayland sequel: an xmonad-flavored compositor on wlroots |
 | **[blog](https://github.com/0xb0b1/blog)** `Go` | This blog is a Go binary — `html/template`, markdown content, i18n, shipped on Fly.io |
-| **[dotfiles](https://github.com/0xb0b1/dotfiles)** `Lua` `Haskell` | XMonad + EWW bar, Catppuccin Frappé, Neovim — the whole desk |
 
 <sub>**Behind closed repos:** a real-time notification service in Go (gRPC + WebSocket delivery, Redis-backed
 deduplication, stateless horizontal scaling) — the migration story is written up
 [here](https://paulo-vicente.fly.dev/en/posts/rewriting-python-notifications-service-in-go) — plus subscription
-and data-ingestion services in Go + Terraform, and an MCP server bridging Azure DevOps into my editor.</sub>
+and data-ingestion services in Go.</sub>
 
 ---
 
@@ -51,11 +51,8 @@ and data-ingestion services in Go + Terraform, and an MCP server bridging Azure 
 
 Notes from production, not tutorials.
 
-- 🤖 [A Day of Letting an Agent Run My Workflow](https://paulo-vicente.fly.dev/en/posts/a-day-of-letting-an-agent-run-my-workflow)
+- 🐿️ [Rewriting a Python Notifications Service in Go](https://paulo-vicente.fly.dev/en/posts/rewriting-python-notifications-service-in-go)
 - ⏱️ [Your Change Detection Never Fires If the Payload Carries a Clock](https://paulo-vicente.fly.dev/en/posts/change-detection-never-fires-if-the-payload-carries-a-clock)
-- 🩺 [A Passing Health Check Doesn't Mean It's Your Build](https://paulo-vicente.fly.dev/en/posts/a-passing-health-check-doesnt-mean-its-your-build)
-- 🐚 [Eight Ways the Shell Silently Ate My Data](https://paulo-vicente.fly.dev/en/posts/eight-ways-the-shell-silently-ate-my-data)
-- 🚦 [Make the Gate Mechanical: Exit Codes Over Adjectives](https://paulo-vicente.fly.dev/en/posts/make-the-gate-mechanical-exit-codes-over-adjectives)
 - 🗄️ [Idempotency Belongs in the Database](https://paulo-vicente.fly.dev/en/posts/idempotency-belongs-in-the-database)
 
 <sub>→ [read everything](https://paulo-vicente.fly.dev/en/posts/) · também [em português](https://paulo-vicente.fly.dev/pt/posts/)</sub>
@@ -68,7 +65,7 @@ Notes from production, not tutorials.
 
 **Languages**
 
-[![Languages](https://skillicons.dev/icons?i=go,clojure,typescript,python,haskell,lua&theme=dark)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=go&theme=dark)](https://skillicons.dev)
 
 **Data & Infra**
 
