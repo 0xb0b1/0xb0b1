@@ -16,7 +16,7 @@
 
 ## Hey, I'm Paulo
 
-**Fullstack Engineer** · Cuiabá, Mato Grosso — Brazil 🇧🇷
+**Senior Full Stack Engineer at Eleanor Health via X-Team** · Cuiabá, Mato Grosso — Brazil 🇧🇷
 
 Backend-heavy: **Go** on the server, **TypeScript + React** on the frontend.
 
