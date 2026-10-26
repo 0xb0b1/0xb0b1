@@ -16,7 +16,7 @@
 
 ## Hey, I'm Paulo
 
-**Fullstack Engineer** at **X-Team** · Cuiabá, Mato Grosso — Brazil 🇧🇷
+**Fullstack Engineer** · Cuiabá, Mato Grosso — Brazil 🇧🇷
 
 Backend-heavy: **Go** on the server, **TypeScript + React** on the frontend.
 
