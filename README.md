@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=1200&color=00ADD8&center=true&vCenter=true&width=680&lines=Fullstack+Engineer+%40+X-Team+%E2%80%94+Backend-heavy+Go;Distributed+Systems+%26+Event-Driven+Architecture+in+Go;I+write+about+how+systems+break+%E2%80%94+and+why" alt="Fullstack Engineer @ X-Team — Backend-heavy Go / Distributed Systems in Go / I write about how systems break" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=1200&color=00ADD8&center=true&vCenter=true&width=680&lines=Fullstack+Engineer+%40+X-Team+%E2%80%94+Backend-heavy+Go;Distributed+Systems+%26+Event-Driven+Architecture+in+Go;I+write+about+how+systems+break+%E2%80%94+and+why" alt="Fullstack Engineer @ X-Team — Backend-heavy Go /     Distributed Systems in Go / I write about how systems break" />
 
 <br>
 
