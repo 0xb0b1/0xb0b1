@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=24&pause=1200&color=00ADD8&center=true&vCenter=true&width=680&lines=Fullstack+Engineer+%40+X-Team+%E2%80%94+Backend-heavy+Go;Distributed+Systems+%26+Event-Driven+Architecture+in+Go;I+write+about+how+systems+break+%E2%80%94+and+why" alt="Fullstack Engineer @ X-Team — Backend-heavy Go /     Distributed Systems in Go / I write about how systems break" />
+<img src="./banner-trace.svg" width="100%" alt="Paulo Vicente: I write about how systems break, and why. Drawn as a distributed trace where a broker publish times out and succeeds after two retries." />
 
 <br>
 
@@ -15,6 +15,10 @@
 ---
 
 ## Hey, I'm Paulo
+
+<p align="center">
+  <img src="./banner-ledger.svg" width="100%" alt="Paulo's career as an append-only event stream (LocatedIn, StudiedAppSec, AdoptedGo, JoinedXTeam, RewroteServiceInGo, PostsPublished) folding into a profile projection." />
+</p>
 
 **Senior Full Stack Engineer at Eleanor Health via X-Team** · Cuiabá, Mato Grosso — Brazil 🇧🇷
 
@@ -32,6 +36,10 @@ once you understand *how systems break*.
 ---
 
 ## Featured Work
+
+<p align="center">
+  <img src="./banner-gowm.svg" width="100%" alt="A gowm tiling window manager session: a terminal introduces Paulo Vicente, a bounded goroutine pool pulses, and a journal tails retries and dedup hits." />
+</p>
 
 | Project | What it is |
 | :--- | :--- |
@@ -98,6 +106,8 @@ Notes from production, not tutorials.
 ---
 
 <div align="center">
+
+<img src="./banner-hexdump.svg" width="100%" alt="xxd hex dump of the line: 0xb0b1 :: Paulo Vicente :: Go, event sourcing, and how systems break." />
 
 <sub>*"Make it correct, make it observable, then make it fast."*</sub>
 
