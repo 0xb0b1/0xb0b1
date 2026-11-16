@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="140" height="52" viewBox="0 0 140 52" role="img" aria-label="coffee: buy me one">
+<style>text{font-family:ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace}</style>
+<rect x="-20" y=".5" width="159.5" height="51" rx="10" fill="#121922" stroke="#25303d"/>
+
+<path d="M10 22h12v6a4 4 0 0 1-4 4h-4a4 4 0 0 1-4-4z" fill="none" stroke="#d29922" stroke-width="1.6"/><path d="M22 24h1.5a2.5 2.5 0 0 1 0 5H22" fill="none" stroke="#d29922" stroke-width="1.6"/><path d="M13.5 19.5v-2.5M17.5 19.5v-2.5" stroke="#d29922" stroke-width="1.6" stroke-linecap="round"/>
+<text x="40" y="21" font-size="10" letter-spacing="1" fill="#4d5867">COFFEE</text>
+<text x="40" y="38" font-size="12.5" fill="#e6edf3">buy me one</text>
+</svg>

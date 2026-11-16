@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="140" height="52" viewBox="0 0 140 52" role="img" aria-label="x: @p_vcent">
+<style>text{font-family:ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace}</style>
+<rect x="-20" y=".5" width="180" height="51" rx="10" fill="#121922" stroke="#25303d"/>
+<line x1="139.5" x2="139.5" y1="0" y2="52" stroke="#25303d"/>
+<path transform="translate(10 18) scale(.667)" fill="#00ADD8" d="M18.901 1.153h3.68l-8.04 9.19L24 22.846h-7.406l-5.8-7.584-6.638 7.584H.474l8.6-9.83L0 1.154h7.594l5.243 6.932ZM17.61 20.644h2.039L6.486 3.24H4.298Z"/>
+<text x="40" y="21" font-size="10" letter-spacing="1" fill="#4d5867">X</text>
+<text x="40" y="38" font-size="12.5" fill="#e6edf3">@p_vcent</text>
+</svg>

@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="220" height="52" viewBox="0 0 220 52" role="img" aria-label="blog: paulo-vicente.fly.dev">
+<style>text{font-family:ui-monospace,SFMono-Regular,'SF Mono',Menlo,Consolas,'Liberation Mono',monospace}</style>
+<rect x="0.5" y=".5" width="239.5" height="51" rx="10" fill="#121922" stroke="#25303d"/>
+<line x1="219.5" x2="219.5" y1="0" y2="52" stroke="#25303d"/>
+<text x="9" y="32" font-size="14" font-weight="700" fill="#00ADD8">&gt;_</text>
+<text x="40" y="21" font-size="10" letter-spacing="1" fill="#4d5867">BLOG</text>
+<text x="40" y="38" font-size="12.5" fill="#e6edf3">paulo-vicente.fly.dev</text>
+</svg>
